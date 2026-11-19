@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Charissa
 
-<!--
-**charissagudknecht-design/charissagudknecht-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Lead / Staff Product Designer in the Twin Cities. I design enterprise SaaS: complex workflows, design systems and AI.
 
-Here are some ideas to get you started:
+I build in code when a flow is hard to judge in Figma. Working prototypes let teams react to real behavior instead of a click-through.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured
+
+- **[AI Interaction Standards](https://github.com/charissagudknecht-design/ai-interaction-standards)**: four AI surfaces, three density levels and the components behind them, live in the browser
+
+### How I work
+
+AI does the legwork. I own the judgment. I use Claude to synthesize research and Claude Code to build prototypes and documentation, and I check everything against the source.
+
+### Find me
+
+[Portfolio](https://charissa.design)
