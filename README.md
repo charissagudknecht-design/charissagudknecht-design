@@ -14,4 +14,4 @@ AI does the legwork. I own the judgment. I use Claude to synthesize research and
 
 ### Find me
 
-[Portfolio](https://charissa.design)
+[Portfolio](https://charissa.design) · [LinkedIn](https://www.linkedin.com/in/charissa-gudknecht/)
