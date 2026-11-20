@@ -6,7 +6,7 @@ I build in code when a flow is hard to judge in Figma. Working prototypes let te
 
 ### Featured
 
-- **[AI Interaction Standards](https://github.com/charissagudknecht-design/ai-interaction-standards)**: four AI surfaces, three density levels and the components behind them, live in the browser
+- **[AI Interaction Standards](https://charissagudknecht-design.github.io/ai-interaction-standards/)**: four AI surfaces, three density levels and the components behind them, live in the browser ([code](https://github.com/charissagudknecht-design/ai-interaction-standards))
 
 ### How I work
 
